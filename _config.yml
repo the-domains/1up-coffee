@@ -1,19 +1,4 @@
-name: 1up Coffee
-favicon: null
-layout_spectrum: 0.9880130914971232
 typography_spectrum: 0.7914421237073839
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,24 @@ color:
   lightness: 0.3513060153927654
   saturation: 0.19069307763129473
   rhythmicContrast: 0.22089872742071748
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9880130914971232
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Leslie
+  email: 'leslie@1upcoffee.com '
+  url: 'http://1upcoffee.com'
+name: 1up Coffee
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Leveling up once a day.
 purpose: []
